@@ -4,7 +4,11 @@ Basically it contains a start page with your logo and two loading rotating circl
 
 Here is screenshots :
 
+![img](Loading-page.png)
+Loading Page Screen-Shot
 
+![img](First-Page.png)
+First Page Screen-Shot
 
 So look at the code use it for your webpage.
 
